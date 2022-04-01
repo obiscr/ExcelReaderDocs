@@ -39,13 +39,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/obiscr/ExcelReader/tree/gh-pages/docs/',
+          editUrl: 'https://github.com/obiscr/ExcelReaderDocs/tree/main/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/obiscr/ExcelReader/tree/gh-pages/docs/',
+            'https://github.com/obiscr/ExcelReaderDocs/tree/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
