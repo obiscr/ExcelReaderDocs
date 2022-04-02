@@ -85,8 +85,9 @@ const config = {
           // },
           {
             href: 'https://github.com/obiscr/ExcelReader',
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
