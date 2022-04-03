@@ -89,6 +89,12 @@ const config = {
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
           },
+          {
+            href: 'https://plugins.jetbrains.com/plugin/14722-excelreader',
+            position: 'right',
+            className: 'header-jetbrains-link',
+            'aria-label': 'JetBrains Plugin Platform',
+          },
         ],
       },
       footer: {
