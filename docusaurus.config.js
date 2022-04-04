@@ -61,7 +61,7 @@ const config = {
         id: 'support_us',
         content:
             '<b>🎉🎉🎉 The new plugin <a href="https://plugins.jetbrains.com/plugin/18663-exceleditor">ExcelEditor</a> has now been released. <a href="https://plugins.jetbrains.com/plugin/18663-exceleditor">Show me</a>!</b> 🎉🎉🎉',
-        backgroundColor: '#888FEF',
+        backgroundColor: '#cf89f0',
         textColor: '#fff',
         isCloseable: false,
       },
