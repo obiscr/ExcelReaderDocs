@@ -9,7 +9,7 @@ const config = {
   title: 'ExcelReader',
   tagline: 'ExcelReader is a plugin for the JetBrains platform. It can parse files in three formats of xls, xlsx, csv in most editors of JetBrains, and supports more powerful data filtering functions',
   url: 'https://github.com/',
-  baseUrl: '/ExcelReader/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
