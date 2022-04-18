@@ -17,7 +17,12 @@ const config = {
   projectName: 'ExcelReader', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-
+  scripts: [
+    {
+      src: 'https://platform-api.sharethis.com/js/sharethis.js#property=625d904696ae3f0019074bb4&product=sop',
+      async: true,
+    },
+  ],
   // i18n: {
   //   defaultLocale: 'en',
   //   locales: ['zh-CN', 'en'],
